@@ -1,0 +1,8 @@
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\.vs\ASPCoreWebAPI\lut\0\i\NUnitTestASPCoreWebApi\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.csproj.CoreCompileInputs.cache
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\.vs\ASPCoreWebAPI\lut\0\i\NUnitTestASPCoreWebApi\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.AssemblyInfoInputs.cache
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\.vs\ASPCoreWebAPI\lut\0\i\NUnitTestASPCoreWebApi\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.AssemblyInfo.cs
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\.vs\ASPCoreWebAPI\lut\0\b\NUnitTestASPCoreWebApi\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.deps.json
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\.vs\ASPCoreWebAPI\lut\0\b\NUnitTestASPCoreWebApi\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.dll
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\.vs\ASPCoreWebAPI\lut\0\i\NUnitTestASPCoreWebApi\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.csprojAssemblyReference.cache
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\.vs\ASPCoreWebAPI\lut\0\i\NUnitTestASPCoreWebApi\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.csproj.CopyComplete
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\.vs\ASPCoreWebAPI\lut\0\i\NUnitTestASPCoreWebApi\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.dll
