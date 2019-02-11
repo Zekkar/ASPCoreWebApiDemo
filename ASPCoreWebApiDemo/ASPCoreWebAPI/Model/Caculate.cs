@@ -7,11 +7,24 @@ namespace ASPCoreWebAPI.Model
 {
     public class Caculate
     {
-        public int addNum(int a , int b)
+        public int AddNum(int a , int b)
         {
             try
             {
                 int sum = a +b;
+
+                return sum;
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+        public int LessNum(int a, int b)
+        {
+            try
+            {
+                int sum = a - b;
 
                 return sum;
             }

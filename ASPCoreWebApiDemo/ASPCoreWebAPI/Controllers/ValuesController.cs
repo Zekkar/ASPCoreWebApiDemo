@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using ASPCoreWebAPI.DTO;
 using Newtonsoft.Json;
+using ASPCoreWebAPI.Model;
 
 namespace ASPCoreWebAPI.Controllers
 {
