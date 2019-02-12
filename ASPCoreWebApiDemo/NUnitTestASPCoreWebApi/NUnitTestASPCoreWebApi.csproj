@@ -20,4 +20,10 @@
     <ProjectReference Include="..\ASPCoreWebAPI\ASPCoreWebAPI.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Reference Include="nunit.framework">
+      <HintPath>bin\Debug\netcoreapp2.2\nunit.framework.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
 </Project>
