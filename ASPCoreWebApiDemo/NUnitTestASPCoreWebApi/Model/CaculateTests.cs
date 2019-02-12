@@ -2,6 +2,7 @@ using ASPCoreWebAPI.Model;
 using Moq;
 using NUnit.Framework;
 using System;
+using NUnit.Framework;
 
 namespace NUnitTestASPCoreWebApi.Model
 {
