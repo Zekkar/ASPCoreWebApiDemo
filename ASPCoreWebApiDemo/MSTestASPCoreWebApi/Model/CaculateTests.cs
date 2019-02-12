@@ -50,21 +50,21 @@ namespace MSTestASPCoreWebApi.Model
 
         }
 
-        //[TestMethod]
-        //public void LessNum_StateUnderTest_ExpectedBehavior()
-        //{
-        //    // Arrange
-        //    var unitUnderTest = this.CreateCaculate();
-        //    int a = TODO;
-        //    int b = TODO;
+        [TestMethod]
+        public void LessNum_StateUnderTest_ExpectedBehavior()
+        {
+            // Arrange
+            var unitUnderTest = this.CreateCaculate();
+            int a = 1;
+            int b = 2;
+            int expected = 1;
+            int actual;
 
-        //    // Act
-        //    var result = unitUnderTest.LessNum(
-        //        a,
-        //        b);
+            // Act
+            actual = unitUnderTest.LessNum(b,a);
 
-        //    // Assert
-        //    Assert.Fail();
-        //}
+            // Assert
+            Assert.AreEqual(expected, actual);
+        }
     }
 }

@@ -11,7 +11,7 @@ namespace ASPCoreWebAPI.Model
         {
             try
             {
-                int sum = a +b;
+                int sum = a + b;
 
                 return sum;
             }
