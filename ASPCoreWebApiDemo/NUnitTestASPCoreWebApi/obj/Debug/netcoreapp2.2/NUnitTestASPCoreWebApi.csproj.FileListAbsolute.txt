@@ -1,6 +1,3 @@
-C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
-C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
-C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\bin\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.deps.json
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\bin\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.runtimeconfig.json
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\bin\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.runtimeconfig.dev.json
@@ -15,3 +12,6 @@ C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTes
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\obj\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.csproj.CopyComplete
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\obj\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.dll
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\obj\Debug\netcoreapp2.2\NUnitTestASPCoreWebApi.pdb
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\NUnitTestASPCoreWebApi\bin\Debug\netcoreapp2.2\Mono.Cecil.dll
