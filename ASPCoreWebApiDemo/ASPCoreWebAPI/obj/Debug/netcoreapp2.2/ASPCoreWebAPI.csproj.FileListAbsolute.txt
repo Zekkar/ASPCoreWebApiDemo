@@ -11,3 +11,4 @@ C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreW
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.dll
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.pdb
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.csprojAssemblyReference.cache
