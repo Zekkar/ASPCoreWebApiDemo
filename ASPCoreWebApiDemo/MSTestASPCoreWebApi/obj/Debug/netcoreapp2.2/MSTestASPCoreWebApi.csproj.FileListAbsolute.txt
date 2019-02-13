@@ -12,5 +12,3 @@ C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\MSTestAS
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\MSTestASPCoreWebApi\obj\Debug\netcoreapp2.2\MSTestASPCoreWebApi.csproj.CopyComplete
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\MSTestASPCoreWebApi\obj\Debug\netcoreapp2.2\MSTestASPCoreWebApi.dll
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\MSTestASPCoreWebApi\obj\Debug\netcoreapp2.2\MSTestASPCoreWebApi.pdb
-C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\MSTestASPCoreWebApi\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\MSTestASPCoreWebApi\bin\Debug\netcoreapp2.2\zh-Hant\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
