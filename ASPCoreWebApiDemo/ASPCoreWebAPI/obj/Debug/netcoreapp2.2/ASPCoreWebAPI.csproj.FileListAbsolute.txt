@@ -3,6 +3,7 @@ C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreW
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\bin\Debug\netcoreapp2.2\ASPCoreWebAPI.runtimeconfig.dev.json
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\bin\Debug\netcoreapp2.2\ASPCoreWebAPI.dll
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\bin\Debug\netcoreapp2.2\ASPCoreWebAPI.pdb
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.csprojAssemblyReference.cache
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.csproj.CoreCompileInputs.cache
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.RazorAssemblyInfo.cache
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.RazorAssemblyInfo.cs
@@ -11,7 +12,3 @@ C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreW
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.RazorTargetAssemblyInfo.cache
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.dll
 C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.pdb
-C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Debug\netcoreapp2.2\ASPCoreWebAPI.csprojAssemblyReference.cache
-C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
-C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
-C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\bin\Debug\netcoreapp2.2\Mono.Cecil.dll

@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "93d74b68d1ba43d9bd7486ed9159a25f18d30ea6"
+    "signature": "9f4bfb86fa1dc4176d0f22290ed0a5b6a2e3a868"
   },
   "compilationOptions": {
     "defines": [
@@ -28,9 +28,6 @@
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0",
           "Moq": "4.10.1",
-          "NUnit": "3.9.0",
-          "NUnit.Runners": "3.9.0",
-          "NUnit3TestAdapter": "3.9.0",
           "Newtonsoft.Json": "12.0.1"
         },
         "runtime": {
@@ -61,27 +58,6 @@
         },
         "compile": {
           "lib/netstandard1.5/Castle.Core.dll": {}
-        }
-      },
-      "Microsoft.DotNet.InternalAbstractions/1.0.0": {
-        "dependencies": {
-          "System.AppContext": "4.3.0",
-          "System.Collections": "4.3.0",
-          "System.IO": "4.3.0",
-          "System.IO.FileSystem": "4.3.0",
-          "System.Reflection.TypeExtensions": "4.5.1",
-          "System.Runtime.Extensions": "4.3.0",
-          "System.Runtime.InteropServices": "4.3.0",
-          "System.Runtime.InteropServices.RuntimeInformation": "4.3.0"
-        },
-        "runtime": {
-          "lib/netstandard1.3/Microsoft.DotNet.InternalAbstractions.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        },
-        "compile": {
-          "lib/netstandard1.3/Microsoft.DotNet.InternalAbstractions.dll": {}
         }
       },
       "Microsoft.NETCore.App/2.2.0": {
@@ -250,13 +226,6 @@
       },
       "Microsoft.NETCore.Platforms/2.2.0": {},
       "Microsoft.NETCore.Targets/2.0.0": {},
-      "Microsoft.Win32.Primitives/4.3.0": {
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "2.2.0",
-          "Microsoft.NETCore.Targets": "2.0.0",
-          "System.Runtime": "4.3.0"
-        }
-      },
       "Moq/4.10.1": {
         "dependencies": {
           "Castle.Core": "4.3.1",
@@ -292,61 +261,9 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
-      "NUnit/3.9.0": {
-        "dependencies": {
-          "NETStandard.Library": "2.0.3",
-          "System.Runtime.Loader": "4.3.0",
-          "System.Threading.Thread": "4.3.0"
-        },
-        "runtime": {
-          "lib/netstandard1.6/nunit.framework.dll": {
-            "assemblyVersion": "3.9.0.0",
-            "fileVersion": "3.9.0.0"
-          }
-        },
-        "compile": {
-          "lib/netstandard1.6/nunit.framework.dll": {}
-        }
-      },
-      "NUnit.ConsoleRunner/3.9.0": {},
-      "NUnit.Extension.NUnitProjectLoader/3.5.0": {},
-      "NUnit.Extension.NUnitV2Driver/3.6.0": {},
-      "NUnit.Extension.NUnitV2ResultWriter/3.5.0": {},
-      "NUnit.Extension.TeamCityEventListener/1.0.3": {},
-      "NUnit.Extension.VSProjectLoader/3.8.0": {},
-      "NUnit.Runners/3.9.0": {
-        "dependencies": {
-          "NUnit.ConsoleRunner": "3.9.0",
-          "NUnit.Extension.NUnitProjectLoader": "3.5.0",
-          "NUnit.Extension.NUnitV2Driver": "3.6.0",
-          "NUnit.Extension.NUnitV2ResultWriter": "3.5.0",
-          "NUnit.Extension.TeamCityEventListener": "1.0.3",
-          "NUnit.Extension.VSProjectLoader": "3.8.0"
-        }
-      },
-      "NUnit3TestAdapter/3.9.0": {
-        "dependencies": {
-          "Microsoft.DotNet.InternalAbstractions": "1.0.0",
-          "System.ComponentModel.EventBasedAsync": "4.3.0",
-          "System.ComponentModel.TypeConverter": "4.3.0",
-          "System.Diagnostics.Process": "4.3.0",
-          "System.Reflection": "4.3.0",
-          "System.Threading.Thread": "4.3.0",
-          "System.Xml.XPath.XmlDocument": "4.3.0",
-          "System.Xml.XmlDocument": "4.3.0"
-        }
-      },
       "System.ComponentModel/4.3.0": {
         "dependencies": {
           "System.Runtime": "4.3.0"
-        }
-      },
-      "System.ComponentModel.EventBasedAsync/4.3.0": {
-        "dependencies": {
-          "System.Resources.ResourceManager": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Threading": "4.3.0",
-          "System.Threading.Tasks": "4.3.0"
         }
       },
       "System.ComponentModel.Primitives/4.3.0": {
@@ -373,45 +290,6 @@
           "System.Runtime": "4.3.0",
           "System.Runtime.Extensions": "4.3.0",
           "System.Threading": "4.3.0"
-        }
-      },
-      "System.Diagnostics.Process/4.3.0": {
-        "dependencies": {
-          "Microsoft.NETCore.Platforms": "2.2.0",
-          "Microsoft.Win32.Primitives": "4.3.0",
-          "Microsoft.Win32.Registry": "4.5.0",
-          "System.Collections": "4.3.0",
-          "System.Diagnostics.Debug": "4.3.0",
-          "System.Globalization": "4.3.0",
-          "System.IO": "4.3.0",
-          "System.IO.FileSystem": "4.3.0",
-          "System.IO.FileSystem.Primitives": "4.3.0",
-          "System.Resources.ResourceManager": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Runtime.Extensions": "4.3.0",
-          "System.Runtime.Handles": "4.3.0",
-          "System.Runtime.InteropServices": "4.3.0",
-          "System.Text.Encoding": "4.3.0",
-          "System.Text.Encoding.Extensions": "4.3.0",
-          "System.Threading": "4.3.0",
-          "System.Threading.Tasks": "4.3.0",
-          "System.Threading.Thread": "4.3.0",
-          "System.Threading.ThreadPool": "4.3.0",
-          "runtime.native.System": "4.3.0"
-        },
-        "runtimeTargets": {
-          "runtime/linux/lib/_._": {
-            "rid": "linux",
-            "assetType": "runtime"
-          },
-          "runtime/osx/lib/_._": {
-            "rid": "osx",
-            "assetType": "runtime"
-          },
-          "runtime/win/lib/_._": {
-            "rid": "win",
-            "assetType": "runtime"
-          }
         }
       },
       "System.Diagnostics.TraceSource/4.3.0": {
@@ -450,42 +328,6 @@
         }
       },
       "System.Reflection.TypeExtensions/4.5.1": {},
-      "System.Runtime.Loader/4.3.0": {
-        "dependencies": {
-          "System.IO": "4.3.0",
-          "System.Reflection": "4.3.0",
-          "System.Runtime": "4.3.0"
-        }
-      },
-      "System.Threading.ThreadPool/4.3.0": {
-        "dependencies": {
-          "System.Runtime": "4.3.0",
-          "System.Runtime.Handles": "4.3.0"
-        }
-      },
-      "System.Xml.XPath.XmlDocument/4.3.0": {
-        "dependencies": {
-          "System.Collections": "4.3.0",
-          "System.Globalization": "4.3.0",
-          "System.IO": "4.3.0",
-          "System.Resources.ResourceManager": "4.3.0",
-          "System.Runtime": "4.3.0",
-          "System.Runtime.Extensions": "4.3.0",
-          "System.Threading": "4.3.0",
-          "System.Xml.ReaderWriter": "4.3.0",
-          "System.Xml.XPath": "4.3.0",
-          "System.Xml.XmlDocument": "4.3.0"
-        },
-        "runtime": {
-          "lib/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {
-            "assemblyVersion": "4.0.2.0",
-            "fileVersion": "4.6.24705.1"
-          }
-        },
-        "compile": {
-          "ref/netstandard1.3/System.Xml.XPath.XmlDocument.dll": {}
-        }
-      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "dependencies": {
           "Newtonsoft.Json": "12.0.1",
@@ -3488,13 +3330,6 @@
       "path": "castle.core/4.3.1",
       "hashPath": "castle.core.4.3.1.nupkg.sha512"
     },
-    "Microsoft.DotNet.InternalAbstractions/1.0.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-S8f3mnSN4yNYafvMEuZKz3VSSv49BQahI6Ibmx9ryuc+7EQ3QsTt4rSvrazwoX2qcLhkPpDV/wLW7yDK6nyuFA==",
-      "path": "microsoft.dotnet.internalabstractions/1.0.0",
-      "hashPath": "microsoft.dotnet.internalabstractions.1.0.0.nupkg.sha512"
-    },
     "Microsoft.NETCore.App/2.2.0": {
       "type": "package",
       "serviceable": true,
@@ -3537,13 +3372,6 @@
       "path": "microsoft.netcore.targets/2.0.0",
       "hashPath": "microsoft.netcore.targets.2.0.0.nupkg.sha512"
     },
-    "Microsoft.Win32.Primitives/4.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-9ZQKCWxH7Ijp9BfahvL2Zyf1cJIk8XYLF6Yjzr2yi0b2cOut/HQ31qf1ThHAgCc3WiZMdnWcfJCgN82/0UunxA==",
-      "path": "microsoft.win32.primitives/4.3.0",
-      "hashPath": "microsoft.win32.primitives.4.3.0.nupkg.sha512"
-    },
     "Moq/4.10.1": {
       "type": "package",
       "serviceable": true,
@@ -3565,82 +3393,12 @@
       "path": "newtonsoft.json/12.0.1",
       "hashPath": "newtonsoft.json.12.0.1.nupkg.sha512"
     },
-    "NUnit/3.9.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-OQ7WboyFa8OLRly/0XM25E+8A/Ojb7A7oHn03gAYTnHmgNehrju3q8PQmk7dFKOzoSarU4/oGhcBgMcvZGuU0w==",
-      "path": "nunit/3.9.0",
-      "hashPath": "nunit.3.9.0.nupkg.sha512"
-    },
-    "NUnit.ConsoleRunner/3.9.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-WFrAd1gEpe6v7KZxlV0vhP6r1DJ4ttFrBXXkw0QGJ7OKiLI9vcqNTHQC67cs6W3FBBM84rNUJ5q2+GiL+my1tQ==",
-      "path": "nunit.consolerunner/3.9.0",
-      "hashPath": "nunit.consolerunner.3.9.0.nupkg.sha512"
-    },
-    "NUnit.Extension.NUnitProjectLoader/3.5.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-tJlcR8v7mbxjop5maZZ5BmjBL3ceDb5sibC5VX2cLDDuzs2hnXxTYNEouh0OBdhdmSY23uqA3H7j9LpM0gIVQw==",
-      "path": "nunit.extension.nunitprojectloader/3.5.0",
-      "hashPath": "nunit.extension.nunitprojectloader.3.5.0.nupkg.sha512"
-    },
-    "NUnit.Extension.NUnitV2Driver/3.6.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-guQVShKZUgsOrCOLatR0bt0HlETZmJ+B38Z8ZiTxB6jg9VPHHeyFlsTZBCqSak2KYLvi8UFl14vCq1dIQVDanw==",
-      "path": "nunit.extension.nunitv2driver/3.6.0",
-      "hashPath": "nunit.extension.nunitv2driver.3.6.0.nupkg.sha512"
-    },
-    "NUnit.Extension.NUnitV2ResultWriter/3.5.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-XKULYMnMtOF2KgK4XD5rx9T2JtcAyrTbq6+z3F33deTB3D60j8aTvFL5KkYFdVAMigqT573NU8WjnxCnBoOrgQ==",
-      "path": "nunit.extension.nunitv2resultwriter/3.5.0",
-      "hashPath": "nunit.extension.nunitv2resultwriter.3.5.0.nupkg.sha512"
-    },
-    "NUnit.Extension.TeamCityEventListener/1.0.3": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-1SjylKnGLQDyllMHbj+b+HWqmFy5hnIFGXGiNXz3ZbSqaZmuyfO6p2aq/8BouzFnVSO28cMTrIgj01M94puC1Q==",
-      "path": "nunit.extension.teamcityeventlistener/1.0.3",
-      "hashPath": "nunit.extension.teamcityeventlistener.1.0.3.nupkg.sha512"
-    },
-    "NUnit.Extension.VSProjectLoader/3.8.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-BwD/qg+4mRfwsoAGquAc//lnWyJJmo/+hGolhZZ3o6NiGo2Tgk2uAkpcO56DAMRaHVIrNBokH8UkYyDsmNvqoQ==",
-      "path": "nunit.extension.vsprojectloader/3.8.0",
-      "hashPath": "nunit.extension.vsprojectloader.3.8.0.nupkg.sha512"
-    },
-    "NUnit.Runners/3.9.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-/iPkhcOFYq/mRRs45PN3FNdmILzt0pjP7KVqY9Pi8y/wH6p7IwEuZZMvoS5iWqef8d+BqcgpNiVf46EqQZJROQ==",
-      "path": "nunit.runners/3.9.0",
-      "hashPath": "nunit.runners.3.9.0.nupkg.sha512"
-    },
-    "NUnit3TestAdapter/3.9.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-t+wcGBK+69gdj0Bk7uukl99+oEnytWf5Ldanfeiw2wM+0Wa41BJhvrlYOmDeDXJJykdQM+w1q0r3F0BSd1oPmw==",
-      "path": "nunit3testadapter/3.9.0",
-      "hashPath": "nunit3testadapter.3.9.0.nupkg.sha512"
-    },
     "System.ComponentModel/4.3.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-VyGn1jGRZVfxnh8EdvDCi71v3bMXrsu8aYJOwoV7SNDLVhiEqwP86pPMyRGsDsxhXAm2b3o9OIqeETfN5qfezw==",
       "path": "system.componentmodel/4.3.0",
       "hashPath": "system.componentmodel.4.3.0.nupkg.sha512"
-    },
-    "System.ComponentModel.EventBasedAsync/4.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-SXx4bOoSfWE1TIq7RyY7GhIL8W1ueW+xHQApV7bkWs42eDZUwfPgct5tv3jZkWRkvQ8JjWF1ab1d1lFwqYPE+Q==",
-      "path": "system.componentmodel.eventbasedasync/4.3.0",
-      "hashPath": "system.componentmodel.eventbasedasync.4.3.0.nupkg.sha512"
     },
     "System.ComponentModel.Primitives/4.3.0": {
       "type": "package",
@@ -3655,13 +3413,6 @@
       "sha512": "sha512-16pQ6P+EdhcXzPiEK4kbA953Fu0MNG2ovxTZU81/qsCd1zPRsKc3uif5NgvllCY598k6bI0KUyKW8fanlfaDQg==",
       "path": "system.componentmodel.typeconverter/4.3.0",
       "hashPath": "system.componentmodel.typeconverter.4.3.0.nupkg.sha512"
-    },
-    "System.Diagnostics.Process/4.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-abJW136xyLtw6yqEJZQ2BvlouZk/mMxKRfeBdmkRy1aqWklpTu5+SNyhz0MjkVEFEU1iBO6vgrU3OpX1Ckj4UQ==",
-      "path": "system.diagnostics.process/4.3.0",
-      "hashPath": "system.diagnostics.process.4.3.0.nupkg.sha512"
     },
     "System.Diagnostics.TraceSource/4.3.0": {
       "type": "package",
@@ -3683,27 +3434,6 @@
       "sha512": "sha512-oRC4IBj4y7gcY9UXxTcIvBLhRJuntL6CfPWazTmtY4dXoXpRS6pI2Y+tu07+p2bUn5abyd5wf5LvpnyrDZdTsQ==",
       "path": "system.reflection.typeextensions/4.5.1",
       "hashPath": "system.reflection.typeextensions.4.5.1.nupkg.sha512"
-    },
-    "System.Runtime.Loader/4.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-G6WmvAI9yOEi5GOWtZT3+pJWHXGaat59qZKQ7Z75fGpacllPmLizNFZvZXj3CysSyMkQBsm50b9xTM/x9L3yCQ==",
-      "path": "system.runtime.loader/4.3.0",
-      "hashPath": "system.runtime.loader.4.3.0.nupkg.sha512"
-    },
-    "System.Threading.ThreadPool/4.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-SrCOmTvvOOCmJT4BBxdZcwhz6XEMsjBGZvGSVorOxdCznaUNeVotEjDfXGIZ8gcGo00qgPbTV6puHDgcFYl6Iw==",
-      "path": "system.threading.threadpool/4.3.0",
-      "hashPath": "system.threading.threadpool.4.3.0.nupkg.sha512"
-    },
-    "System.Xml.XPath.XmlDocument/4.3.0": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-91tvfHWHSrYFPolCwWYqbpo1YaoBUCQ3uNZ/O/zr0ev5BnkoATJoie16ywlMVUaXZtfSfNELxhtG3aqpTfwR4w==",
-      "path": "system.xml.xpath.xmldocument/4.3.0",
-      "hashPath": "system.xml.xpath.xmldocument.4.3.0.nupkg.sha512"
     },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "type": "package",

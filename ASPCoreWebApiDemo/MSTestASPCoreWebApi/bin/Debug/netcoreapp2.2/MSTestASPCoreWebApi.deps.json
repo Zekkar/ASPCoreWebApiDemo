@@ -981,7 +981,6 @@
       },
       "ASPCoreWebAPI/1.0.0": {
         "dependencies": {
-          "MSTest.TestFramework": "1.4.0",
           "Moq": "4.10.1",
           "Newtonsoft.Json": "12.0.1"
         },

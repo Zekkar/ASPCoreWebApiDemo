@@ -2,12 +2,11 @@ using ASPCoreWebAPI.Model;
 using Moq;
 using NUnit.Framework;
 using System;
-using NUnit;
 
-namespace ASPCoreWebAPI.Model
+namespace NUnitTestASPCoreWebApi.Model
 {
     [TestFixture]
-    public class CaculateTests
+    public class addTests
     {
         private MockRepository mockRepository;
 
@@ -27,28 +26,27 @@ namespace ASPCoreWebAPI.Model
             this.mockRepository.VerifyAll();
         }
 
-        private Caculate CreateCaculate()
+        private add Createadd()
         {
-            return new Caculate();
+            return new add();
         }
 
         [Test]
-        public void AddNum_StateUnderTest_ExpectedBehavior()
+        public void AddOne_StateUnderTest_ExpectedBehavior()
         {
             // Arrange
-            var unitUnderTest = this.CreateCaculate();
+            var unitUnderTest = this.Createadd();
             int a = 1;
             int b = 2;
-            int expected = 3;
-            int actual;
-
+            int result;
+            int sum = 3;
             // Act
-            actual = unitUnderTest.AddNum(a, b);
-
+            result = unitUnderTest.AddOne(
+                a,
+                b);
 
             // Assert
-            Assert.AreEqual(expected, actual);
-
+            Assert.AreEqual(sum, result);
         }
     }
 }
