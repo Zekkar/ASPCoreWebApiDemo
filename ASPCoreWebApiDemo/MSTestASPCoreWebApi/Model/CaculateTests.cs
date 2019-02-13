@@ -57,7 +57,7 @@ namespace MSTestASPCoreWebApi.Model
             var unitUnderTest = this.CreateCaculate();
             int a = 1;
             int b = 2;
-            int expected = ;
+            int expected = 1;
             int actual;
 
             // Act
