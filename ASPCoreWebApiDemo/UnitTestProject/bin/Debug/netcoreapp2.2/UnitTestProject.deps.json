@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "c72ed6f5be9d6542417c9b3b010b227fcd15a5da"
+    "signature": "d2a59c94a5da89d6b12e088799ebc7fd5eb702b3"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,9 +9,8 @@
       "UnitTestProject/1.0.0": {
         "dependencies": {
           "ASPCoreWebAPI": "1.0.0",
-          "MSTest.TestAdapter": "1.3.2",
-          "MSTest.TestFramework": "1.3.2",
-          "Microsoft.NET.Test.Sdk": "15.9.0"
+          "Microsoft.NET.Test.Sdk": "15.9.0",
+          "Microsoft.VisualStudio.QualityTools.UnitTestFramework": "10.0.0.0"
         },
         "runtime": {
           "UnitTestProject.dll": {}
@@ -88,7 +87,7 @@
           "System.ComponentModel.EventBasedAsync": "4.0.11",
           "System.ComponentModel.TypeConverter": "4.3.0",
           "System.Diagnostics.Process": "4.1.0",
-          "System.Diagnostics.TextWriterTraceListener": "4.3.0",
+          "System.Diagnostics.TextWriterTraceListener": "4.0.0",
           "System.Diagnostics.TraceSource": "4.3.0",
           "System.Reflection.Metadata": "1.3.0",
           "System.Reflection.TypeExtensions": "4.5.1",
@@ -379,23 +378,6 @@
           }
         }
       },
-      "MSTest.TestAdapter/1.3.2": {
-        "dependencies": {
-          "System.Diagnostics.TextWriterTraceListener": "4.3.0"
-        }
-      },
-      "MSTest.TestFramework/1.3.2": {
-        "runtime": {
-          "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll": {
-            "assemblyVersion": "14.0.0.0",
-            "fileVersion": "14.0.2505.1"
-          },
-          "lib/netstandard1.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll": {
-            "assemblyVersion": "14.0.0.0",
-            "fileVersion": "14.0.2505.1"
-          }
-        }
-      },
       "Newtonsoft.Json/12.0.1": {
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {
@@ -544,7 +526,7 @@
           }
         }
       },
-      "System.Diagnostics.TextWriterTraceListener/4.3.0": {
+      "System.Diagnostics.TextWriterTraceListener/4.0.0": {
         "dependencies": {
           "System.Diagnostics.TraceSource": "4.3.0",
           "System.Globalization": "4.3.0",
@@ -986,6 +968,19 @@
         "runtime": {
           "ASPCoreWebAPI.dll": {}
         }
+      },
+      "Microsoft.VisualStudio.QualityTools.UnitTestFramework/10.0.0.0": {
+        "runtime": {
+          "Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "15.0.27906.1"
+          }
+        },
+        "resources": {
+          "zh-Hant/Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll": {
+            "locale": "zh-Hant"
+          }
+        }
       }
     }
   },
@@ -1064,20 +1059,6 @@
       "sha512": "sha512-bhIH9jS8Fuy5r+p7+y0M5wRbJkbhPbsacOAFd7hWwjV8/e71zZOfg33FVF3R7H/qOTV1vErIg+zSnGlzJn1sPA==",
       "path": "moq/4.10.1",
       "hashPath": "moq.4.10.1.nupkg.sha512"
-    },
-    "MSTest.TestAdapter/1.3.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-CuktA7K5T42wPagNRg69mqGFBLbolWcffuQyWxUfx0ZSl2qD73COW+bJVBg73iwPweTkNa6sSRvOvnlCrLQ54g==",
-      "path": "mstest.testadapter/1.3.2",
-      "hashPath": "mstest.testadapter.1.3.2.nupkg.sha512"
-    },
-    "MSTest.TestFramework/1.3.2": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "sha512-gPBFq2drAnhGdT3RGYv/OaYdyCYXSvDK1Cm4aMA7o4T1nYBMHOutgcVInrVCq+z+wASKjmkSJ70ajA2+fB7kzQ==",
-      "path": "mstest.testframework/1.3.2",
-      "hashPath": "mstest.testframework.1.3.2.nupkg.sha512"
     },
     "Newtonsoft.Json/12.0.1": {
       "type": "package",
@@ -1177,12 +1158,12 @@
       "path": "system.diagnostics.process/4.1.0",
       "hashPath": "system.diagnostics.process.4.1.0.nupkg.sha512"
     },
-    "System.Diagnostics.TextWriterTraceListener/4.3.0": {
+    "System.Diagnostics.TextWriterTraceListener/4.0.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-TrwuaAPTIOVJZTVUm3Twir6uwDLDmj9a7fnscvk7dHh5zacsFP6jdMksY0MhdTMLCPgsiT1doRKXziRThaClJQ==",
-      "path": "system.diagnostics.textwritertracelistener/4.3.0",
-      "hashPath": "system.diagnostics.textwritertracelistener.4.3.0.nupkg.sha512"
+      "sha512": "sha512-oRsXCz76GDDMrwjMjH6keR9erFIofhGaIMc2d4NykI4rdBEuUP5ZswYA30LGPdyCK7DV4bMBEJL3nJFyAJoS/g==",
+      "path": "system.diagnostics.textwritertracelistener/4.0.0",
+      "hashPath": "system.diagnostics.textwritertracelistener.4.0.0.nupkg.sha512"
     },
     "System.Diagnostics.TraceSource/4.3.0": {
       "type": "package",
@@ -1487,6 +1468,11 @@
     },
     "ASPCoreWebAPI/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.VisualStudio.QualityTools.UnitTestFramework/10.0.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }
