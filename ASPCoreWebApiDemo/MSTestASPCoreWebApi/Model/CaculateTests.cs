@@ -1,6 +1,5 @@
 using ASPCoreWebAPI.Model;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Moq;
 using System;
 
 namespace MSTestASPCoreWebApi.Model
@@ -8,24 +7,7 @@ namespace MSTestASPCoreWebApi.Model
     [TestClass]
     public class CaculateTests
     {
-        private MockRepository mockRepository;
-
-
-
-        [TestInitialize]
-        public void TestInitialize()
-        {
-            this.mockRepository = new MockRepository(MockBehavior.Strict);
-
-
-        }
-
-        [TestCleanup]
-        public void TestCleanup()
-        {
-            this.mockRepository.VerifyAll();
-        }
-
+        
         private Caculate CreateCaculate()
         {
             return new Caculate();

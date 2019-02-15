@@ -5911,7 +5911,6 @@
       "ASPCoreWebAPI >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 15.9.0",
       "Microsoft.NETCore.App >= 2.2.0",
-      "Moq >= 4.10.1",
       "NUnit >= 3.9.0",
       "NUnit.Console >= 3.9.0",
       "NUnit.ConsoleRunner >= 3.9.0",
@@ -5974,10 +5973,6 @@
             "target": "Package",
             "version": "[2.2.0, )",
             "autoReferenced": true
-          },
-          "Moq": {
-            "target": "Package",
-            "version": "[4.10.1, )"
           },
           "NUnit": {
             "target": "Package",
