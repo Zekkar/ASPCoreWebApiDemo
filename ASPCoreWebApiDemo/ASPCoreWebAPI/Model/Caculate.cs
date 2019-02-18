@@ -17,7 +17,7 @@ namespace ASPCoreWebAPI.Model
             }
             catch (Exception ex)
             {
-                throw ex;
+                throw ;
             }
         }
         public int LessNum(int a, int b)
@@ -30,7 +30,7 @@ namespace ASPCoreWebAPI.Model
             }
             catch (Exception ex)
             {
-                throw ex;
+                throw ;
             }
         }
     }
