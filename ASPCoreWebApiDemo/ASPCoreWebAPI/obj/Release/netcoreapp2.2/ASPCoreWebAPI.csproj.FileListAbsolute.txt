@@ -1,0 +1,14 @@
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\bin\Release\netcoreapp2.2\ASPCoreWebAPI.deps.json
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\bin\Release\netcoreapp2.2\ASPCoreWebAPI.runtimeconfig.json
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\bin\Release\netcoreapp2.2\ASPCoreWebAPI.runtimeconfig.dev.json
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\bin\Release\netcoreapp2.2\ASPCoreWebAPI.dll
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\bin\Release\netcoreapp2.2\ASPCoreWebAPI.pdb
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Release\netcoreapp2.2\ASPCoreWebAPI.csprojAssemblyReference.cache
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Release\netcoreapp2.2\ASPCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Release\netcoreapp2.2\ASPCoreWebAPI.RazorAssemblyInfo.cache
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Release\netcoreapp2.2\ASPCoreWebAPI.RazorAssemblyInfo.cs
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Release\netcoreapp2.2\ASPCoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Release\netcoreapp2.2\ASPCoreWebAPI.AssemblyInfo.cs
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Release\netcoreapp2.2\ASPCoreWebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Release\netcoreapp2.2\ASPCoreWebAPI.dll
+C:\Users\ds.hsu\source\repos\Zekkar\ASPCoreWebApiDemo\ASPCoreWebApiDemo\ASPCoreWebAPI\obj\Release\netcoreapp2.2\ASPCoreWebAPI.pdb

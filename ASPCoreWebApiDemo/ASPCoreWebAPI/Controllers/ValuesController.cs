@@ -13,6 +13,8 @@ namespace ASPCoreWebAPI.Controllers
     [ApiController]
     public class ValuesController : ControllerBase
     {
+        
+
         // GET api/values
         [HttpGet]
         public ActionResult<string> Get()
@@ -33,7 +35,24 @@ namespace ASPCoreWebAPI.Controllers
         [HttpGet("{id}")]
         public ActionResult<string> Get(int id)
         {
-            return "value";
+            string re = "";
+
+            if (id <= 0 && id > 2)
+                re = "Fail 1 + 2 + 3 + 4";
+            switch(id)
+            {
+                case 1:
+                    re = "2"; 
+                    break;
+                case 2:
+                    re = "3";
+                    break;
+                default:
+                    re = "1 + 2 + 3 + 4";
+                    break;
+            }
+
+            return JsonConvert.SerializeObject(re);
         }
 
         // POST api/values
